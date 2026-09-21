@@ -1,5 +1,5 @@
 function saludar() {
-    return "Hola";
+    return "Buenas tardes";
 }
 
 console.log(saludar());
